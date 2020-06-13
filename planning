@@ -1,9 +1,15 @@
 How should we plan this
 
-Video Editor: Ideas to implement
+Video Editor: be able to
+* Take in Data (Video clip)
+* Edit visual of video with user input/choice
 
-Audio Mixers
+Audio Mixers: be able to
+* Take in data (Audio)
+* Edit audio
 
-Chat Rooms
+Chat Rooms: be able to
+* Allow users to interact with others
+* Comment Sections related
 
-Website Front End:'
+ Front End:
