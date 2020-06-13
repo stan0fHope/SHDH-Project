@@ -1,4 +1,8 @@
 How should we plan this
+* Create the base website structure
+* Create a database for storing the users
+* Control tools for the audio mixer and video editor
+* Socket programming for the chatrooms
 
 Video Editor: be able to
 * Take in Data (Video clip)
