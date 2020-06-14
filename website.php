@@ -39,11 +39,10 @@
         </div>
         <p>
             This project became our focus because we wanted to create a site where one could play with data for both
-            presentations or personal amusement. As it was in the idea level of development
+            presentations or personal amusement. As it was in the idea level of development, we wamted people to communcate
+            and talk happily qne kindly.
         </p>
-        <p>
-            Final Project for CS205 at The University of Vermont
-        </p>
+        <p> Project for Hackathon, SameHack Different Home </p>
     </div>
     </body>
 </html>
